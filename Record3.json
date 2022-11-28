@@ -1,0 +1,20 @@
+{
+	"location" : 
+	{
+		"place" : "In the woods"
+	},
+	"person" : 
+	{
+		"name" : "Little Red Riding Hood"
+	},
+	"person 2" : 
+	{
+		"name" : "Wolf"
+	},
+	"thing" : null,
+	"thing 2" : null,
+	"time" : 
+	{
+		"order" : "Event 4"
+	}
+}

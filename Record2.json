@@ -1,0 +1,26 @@
+{
+	"location" : 
+	{
+		"place" : "In the village"
+	},
+	"person" : 
+	{
+		"name" : "Mother"
+	},
+	"person 2" : 
+	{
+		"name" : "Little Red Riding Hood"
+	},
+	"thing" : 
+	{
+		"item" : "cake"
+	},
+	"thing 2" : 
+	{
+		"item" : "wine"
+	},
+	"time" : 
+	{
+		"order" : "Event 2"
+	}
+}
